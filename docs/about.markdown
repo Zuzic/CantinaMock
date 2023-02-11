@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Cantina Wine About
 permalink: /about/
 ---
 
-Cantina Wine About
+
