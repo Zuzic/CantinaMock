@@ -2,7 +2,8 @@
    "home":[
       {
          "title":"Page Title",
-         "desc":"Page desc"
+         "desc":"Page desc",
+         "url": "https://zuzic.github.io/CantinaMock/Recources/image2.png"
       }
    ],
    "catalog":[
