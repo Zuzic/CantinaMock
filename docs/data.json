@@ -1,16 +1,28 @@
 {
-   "home":[
-      {
-         "title":"Page Title",
-         "desc":"Page desc",
-         "url": "https://zuzic.github.io/CantinaMock/Recources/image2.png"
-      }
-   ],
+   "home":{
+      "title":"Home Page Title",
+      "desc":"Home Page desc"
+   },
    "catalog":[
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
-         "name":"Irpinia Falanghina",
-         "desc":"Product desc"
+         "name":"Irpinia Coda di Volpe",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
       }
-   ]
+   ],
+   "contact":{
+      "name":"Antica Hirpinia ",
+      "address":"Contrada Lenze SP52 83030 \nTaurasi - Avellino - Italia",
+      "phone":"+39 0827 74730",
+      "fax":"+39 0827 74038",
+      "email":"info@anticairpinia.it",
+      "facebook":"Link",
+      "instagram":"Link"
+   }
 }
