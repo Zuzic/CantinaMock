@@ -5,6 +5,6 @@
 layout: page
 ---
 
-You can find the JSON:
-#[jekyll][Cantina JSON] /
-#[minima](https://zuzic.github.io/CantinaMock/data.json)
+Welcome to Cantina Wine Development page
+
+[You can find the JSON:](https://zuzic.github.io/CantinaMock/data.json)
