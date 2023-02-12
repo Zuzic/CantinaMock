@@ -1,12 +1,78 @@
 {
    "home":{
-      "title":"Home Page Title",
-      "desc":"Home Page desc"
+      "title":"Our Story",
+      "desc":"Nestled among the rolling hills of Italy, there lies a place Taurasi where passion and tradition meet. This is the home of our winery and its secret treasure — a wine cellar filled with the finest wines from our vineyards. \nOur team dedicated itself to crafting the perfect bottles of wine, each a reflection of the land and our people. Our cellar is a testament to our love for the art of winemaking, a place where the finest grapes are carefully tended and transformed into the finest nectars.\nImmerse yourself in the rich heritage of Italian winemaking as you sample the rarest and most sought-after bottles"
    },
    "catalog":[
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
          "name":"Irpinia Coda di Volpe",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+      {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120003",
+         "name":"Irpinia Coda di Volpe 1",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+      {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120004",
+         "name":"Irpinia Coda di Volpe 2",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+       {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120005",
+         "name":"Irpinia Coda di Volpe 3",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+      {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120006",
+         "name":"Irpinia Coda di Volpe 4",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+      {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120007",
+         "name":"Irpinia Coda di Volpe 5",
+         "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
+         "type":"red",
+         "sweetness":"dry",
+         "brand":"Anno Domini 1590",
+         "region":"Campania Region, Italy",
+         "grape":"Greco",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+      },
+      {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120008",
+         "name":"Irpinia Coda di Volpe 6",
          "desc":"Food Pairing \nSeafood, risottos, delicate white meats \nTasting note \nIntense and elegant. Notes of pink grapefruit follow the twinkling of aromatic herbs. After the first impact to the nose, the scent of sage starts a fantastic duet with the passionfruit just appearing on the scene. The finish is long and intriguing. \nStatus of quality \nOur wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential.",
          "type":"red",
          "sweetness":"dry",
