@@ -13,7 +13,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120003",
@@ -24,7 +25,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120004",
@@ -35,7 +37,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
        {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120005",
@@ -46,7 +49,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120006",
@@ -57,7 +61,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120007",
@@ -68,7 +73,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120008",
@@ -79,7 +85,8 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png"
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
       }
    ],
    "contact":{
