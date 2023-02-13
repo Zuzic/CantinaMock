@@ -7,7 +7,7 @@
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
          "name":"Irpinia Coda di Volpe",
-         "subname": null,
+         "subname":null,
          "desc": "Food Pairing \nPasta with clams, sole meunière, mixed legume soup",
          "taste":"Tasting note \nWhite and juicy fruits, suggestions of fresh aromatic herbs. The sage becomes bigger and the taste gets enhanced by captivating notes of pink grapefruit.",
          "type":"white",
@@ -35,7 +35,7 @@
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120004",
          "name":"DESMOS",
-         "subname":NULL,
+         "subname":null,
          "desc":"Food Pairing \nIt accompanies fish or meat first courses, haute cuisine fish, white meats and semi-mature cheeses",
          "taste":"Tasting note \It has a bright yellow color with light green shades, floral and fruity scent with citrus notes. In the mouth it is tasty, fresh and mineral with light hints of wood.",
          "type":"red",
@@ -49,7 +49,7 @@
        {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120005",
          "name":"FIANO DI AVELLINO",
-         "subname":NULL,
+         "subname":null,
          "desc":"Food Pairing \nSeafood pasta, smoked salmon, tuna steak",
          "taste":"Tasting note \nThe Prince of the winery. Elegant, strong, with the perfect body and big shoulders. On the nose is powerful, rich of ripe and pulpy red fruits, immediately followed by dark spices like cloves and coffee. The long flowery finish is guaranteed.",        
          "type":"white",
@@ -63,7 +63,7 @@
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120006",
          "name":"IRPINIA AGLIANICO",
-         "subname":NULL,
+         "subname":null,
          "desc":"Food Pairing \nPizza with cheese and bacon, meatloaf, beef burrito, roast-beef",
          "taste":"Tasting note \nThis Aglianico is fun and it is the perfect wine to give a toast to life. It’s gentle and flowery, with generous hints of ripe red fruits. It’s a full bodied red wine, but never loud. The long finish is all played on raspberries, violets and with a surprising hint of rosmary.",
          "type":"red",
@@ -77,7 +77,7 @@
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120007",
          "name":"IRPINIA FALANGHINA",
-         "subname":NULL,
+         "subname":null,
          "desc":"Food Pairing \nIt’s perfect paired with sea food, sushi, pasta with vegetables",
          "taste":"Tasting note \nThe first impact is fresh. Then, an explosion of white flowers. Saltiness and richness, a duet of both crunchy and soft sensations, with a long and enchanting finish of wisteria.",
          "type":"white",
@@ -91,7 +91,7 @@
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120008",
          "name":"GRECO DI TUFO",
-         "subname":NULL,
+         "subname":null,
          "desc":"Food Pairing \nChicken breast with vegetables, chicken burrito, lobster roll",
          "taste":"Tasting note \Powerful and vibrant, this wine is rich of crispy white fruit and intense yellow flowers. Saltiness and acidity are very high and, at the same time, the long élevage on lees has made our Greco di Tufo round and graceful.",
          "type":"white",
