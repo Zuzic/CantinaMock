@@ -5,6 +5,20 @@
    },
    "catalog":[
       {
+         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120001",
+         "name":"Irpinia Subname",
+         "subname":"Subname",
+         "desc": "Food Pairing \nPasta with clams, sole meunière, mixed legume soup",
+         "taste":"Tasting note \nWhite and juicy fruits, suggestions of fresh aromatic herbs. The sage becomes bigger and the taste gets enhanced by captivating notes of pink grapefruit.",
+         "type":"white",
+         "sweetness":"dry",
+         "brand":"Antica Hirpinia",
+         "region":"Campania Region, Italy",
+         "grape":"Coda di Volpe 100%",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "status": "DOCG"
+      },
+      {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
          "name":"Irpinia Coda di Volpe",
          "subname":null,
