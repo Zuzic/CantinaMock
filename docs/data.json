@@ -4,28 +4,28 @@
       "desc":"Nestled among the rolling hills of Italy, there lies a place Taurasi where passion and tradition meet. This is the home of our winery and its secret treasure — a wine cellar filled with the finest wines from our vineyards. \n\nOur team dedicated itself to crafting the perfect bottles of wine, each a reflection of the land and our people. Our cellar is a testament to our love for the art of winemaking, a place where the finest grapes are carefully tended and transformed into the finest nectars. \n\nImmerse yourself in the rich heritage of Italian winemaking as you sample the rarest and most sought-after bottles"
    },
    "catalog":[
-      {
-         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120001",
-         "name":"Irpinia Subname",
-         "subname":"Subname",
-         "desc":[
-            {
-               "title":"Food Pairing",
-               "value":"Pasta with clams, sole meunière, mixed legume soup"
-            },
-            {
-               "title":"Tasting note",
-               "value":"White and juicy fruits, suggestions of fresh aromatic herbs. The sage becomes bigger and the taste gets enhanced by captivating notes of pink grapefruit."
-            }
-         ],
-         "type":"white",
-         "sweetness":"dry",
-         "brand":"Antica Hirpinia",
-         "region":"Campania Region, Italy",
-         "grape":"Coda di Volpe 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
-         "status":"DOCG"
-      },
+     // {
+     //    "id":"06b60fdc-a9f5-11ed-afa1-0242ac120001",
+     //    "name":"Irpinia Subname",
+     //    "subname":"Subname",
+     //    "desc":[
+     //       {
+     //          "title":"Food Pairing",
+     //          "value":"Pasta with clams, sole meunière, mixed legume soup"
+     //       },
+     //       {
+     //          "title":"Tasting note",
+     //          "value":"White and juicy fruits, suggestions of fresh aromatic herbs. The sage becomes bigger and the taste gets enhanced by captivating notes of pink grapefruit."
+      //      }
+      //   ],
+     //    "type":"white",
+      //   "sweetness":"dry",
+      //   "brand":"Antica Hirpinia",
+      //   "region":"Campania Region, Italy",
+     //    "grape":"Coda di Volpe 100%",
+      //   "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+     //    "status":"DOCG"
+     // },
       {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
          "name":"Irpinia Coda di Volpe",
