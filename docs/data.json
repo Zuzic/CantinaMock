@@ -5,28 +5,6 @@
    },
    "catalog":[
       {
-         "id":"06b60fdc-a9f5-11ed-afa1-0242ac120001",
-         "name":"Irpinia Subname",
-         "subname":"Subname",
-         "desc":[
-            {
-               "title":"Food Pairing",
-               "value":"Pasta with clams, sole meunière, mixed legume soup"
-            },
-            {
-               "title":"Tasting note",
-               "value":"White and juicy fruits, suggestions of fresh aromatic herbs. The sage becomes bigger and the taste gets enhanced by captivating notes of pink grapefruit."
-            }
-         ],
-         "type":"white",
-         "sweetness":"dry",
-         "brand":"Antica Hirpinia",
-         "region":"Campania Region, Italy",
-         "grape":"Coda di Volpe 100%",
-         "image":"https://www.anticahirpinia.it/wp-content/uploads/2019/04/logo.png",
-         "status":"DOCG"
-      },
-      {
          "id":"06b60fdc-a9f5-11ed-afa1-0242ac120002",
          "name":"Irpinia Coda di Volpe",
          "subname":null,
@@ -45,7 +23,7 @@
          "brand":"Antica Hirpinia",
          "region":"Campania Region, Italy",
          "grape":"Coda di Volpe 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/Irpnia-Coda-di-Volpe-800x1200.png",
          "status":"DOCG"
       },
       {
@@ -67,7 +45,7 @@
          "brand":"Antica Hirpinia",
          "region":"Campania Region, Italy",
          "grape":"Aglianico 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/Taurasi-800x1200.png",
          "status":"DOCG"
       },
       {
@@ -111,7 +89,7 @@
          "brand":"Antica Hirpinia",
          "region":"Campania Region, Italy",
          "grape":"Fiano 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/Fiano-di-Avellino-800x1200.png",
          "status":"DOCG"
       },
       {
@@ -133,7 +111,7 @@
          "brand":"Antica Hirpinia",
          "region":"Campania Region, Italy",
          "grape":"Aglianico 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/Irpnia-Aglianico-800x1200.png",
          "status":"DOCG"
       },
       {
@@ -155,7 +133,7 @@
          "brand":"Antica Hirpinia",
          "region":"Campania Region, Italy",
          "grape":"Falanghina 100%",
-         "image":"https://zuzic.github.io/CantinaMock/Recources/bottleWineTMP.png",
+         "image":"https://zuzic.github.io/CantinaMock/Recources/Irpnia-Falanghina-800x1200.png",
          "status":"DOCG"
       },
       {
@@ -177,7 +155,7 @@
          "brand":"Anno Domini 1590",
          "region":"Campania Region, Italy",
          "grape":"Greco 100%",
-         "image":"https://www.anticahirpinia.it/wp-content/uploads/2019/04/Greco-di-Tufo-800x1200.jpg",
+         "image":"https://www.anticahirpinia.it/wp-content/uploads/2019/04/Greco-di-Tufo-800x1200.pngg",
          "status":"DOCG"
       }
    ],
