@@ -189,5 +189,17 @@
       "email":"info@anticairpinia.it",
       "facebook":"https://www.facebook.com/",
       "instagram":"https://www.instagram.com/"
+   },
+   "metadata":{
+      "status":[
+         {
+            "status":"DOCG",
+            "desc":"Our wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \n\nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \n\nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential."
+         },
+         {
+            "status":"DOCG1",
+            "desc":"Our wines have the highest quality status as per the Italian classification of the origins: DOCG  (Denominazione di Origine Controllata e Garantita) and DOC (Denominazione di Origine Controllata). \n\nWe produce white wine from the ancient Greco and Fiano grape varieties. Both gained status DOCG. \n\nThe red wine — is from the grape variety Aglianico natural pearl of Campania’s wine. It’s an ancient wine varietal that gave birth to excellent quality wines, as in the case of wine Taurasi, which have status DOCG. Shows musky berry flavors with firm tannins and good aging potential."
+         }
+      ]
    }
 }
