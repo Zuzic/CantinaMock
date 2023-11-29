@@ -7,7 +7,7 @@
          "zip":"15040",
          "city":"OCCIMIANO",
          "state":"AL",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41176",
@@ -17,7 +17,7 @@
          "zip":"83040",
          "city":"CAPOSELE",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40094",
@@ -26,7 +26,7 @@
          "zip":"83040",
          "city":"FONTANAROSA",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40038",
@@ -36,7 +36,7 @@
          "zip":"83036",
          "city":"MIRABELLA ECLANO",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40995",
@@ -45,7 +45,7 @@
          "zip":"83036",
          "city":"MIRABELLA ECLANO",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41230",
@@ -55,7 +55,7 @@
          "zip":"83025",
          "city":"MONTORO SUPERIORE",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41055",
@@ -64,7 +64,7 @@
          "zip":"83056",
          "city":"TEORA",
          "state":"AV",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40014",
@@ -73,7 +73,7 @@
          "zip":"24010",
          "city":"SORISOLE",
          "state":"BG",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40702",
@@ -83,7 +83,7 @@
          "zip":"82100",
          "city":"BENEVENTO",
          "state":"BN",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41310",
@@ -93,7 +93,7 @@
          "zip":"82020",
          "city":"SAN GIORGIO LA MOLARA",
          "state":"BN",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41288",
@@ -102,7 +102,7 @@
          "zip":"25080",
          "city":"MANERBA DEL GARDA",
          "state":"BS",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41266",
@@ -111,7 +111,7 @@
          "zip":"81033",
          "city":"CASAL DI PRINCIPE",
          "state":"CE",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40041",
@@ -120,7 +120,7 @@
          "zip":"81013",
          "city":"PIANA DI MONTE VERNA",
          "state":"CE",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40004",
@@ -129,7 +129,7 @@
          "zip":"81050",
          "city":"SAN TAMMARO",
          "state":"CE",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40928",
@@ -139,7 +139,7 @@
          "zip":"GL6",
          "city":"8RN STROUD- Gloucestershire",
          "state":"GB",
-         "country code":"GB"
+         "countryCode":"GB"
       },
       {
          "clientID":"41195",
@@ -148,7 +148,7 @@
          "zip":"57034",
          "city":"CAMPO NELL'ELBA",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41282",
@@ -157,7 +157,7 @@
          "zip":"57034",
          "city":"CAMPO NELL'ELBA (ISOLA D'ELBA)",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41259",
@@ -166,7 +166,7 @@
          "zip":"57016",
          "city":"CASTIGLIONCELLO",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41265",
@@ -175,7 +175,7 @@
          "zip":"57100",
          "city":"LIVORNO",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41270",
@@ -184,7 +184,7 @@
          "zip":"57121",
          "city":"LIVORNO",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41268",
@@ -193,7 +193,7 @@
          "zip":"57037",
          "city":"PORTOFERRAIO",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41300",
@@ -203,7 +203,7 @@
          "zip":"57037",
          "city":"PORTOFERRAIO",
          "state":"LI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41325",
@@ -212,7 +212,7 @@
          "zip":"04024",
          "city":"GAETA",
          "state":"LT",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41319",
@@ -221,7 +221,7 @@
          "zip":"55014",
          "city":"MARLIA",
          "state":"LU",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40582",
@@ -230,7 +230,7 @@
          "zip":"55049",
          "city":"VIAREGGIO",
          "state":"LU",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41129",
@@ -240,7 +240,7 @@
          "zip":"20083",
          "city":"GAGGIANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40606",
@@ -249,7 +249,7 @@
          "zip":"20144",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40629",
@@ -258,7 +258,7 @@
          "zip":"20144",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41080",
@@ -267,7 +267,7 @@
          "zip":"20148",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41257",
@@ -276,7 +276,7 @@
          "zip":"20133",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41297",
@@ -285,7 +285,7 @@
          "zip":"20133",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41329",
@@ -294,7 +294,7 @@
          "zip":"20127",
          "city":"MILANO",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40115",
@@ -303,7 +303,7 @@
          "zip":"20099",
          "city":"SESTO SAN GIOVANNI",
          "state":"MI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41256",
@@ -313,7 +313,7 @@
          "zip":"41013",
          "city":"CASTELFRANCO EMILIA",
          "state":"MO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41165",
@@ -322,7 +322,7 @@
          "zip":"80037",
          "city":"CAPRI",
          "state":"NA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41228",
@@ -331,7 +331,7 @@
          "zip":"80025",
          "city":"CASANDRINO",
          "state":"NA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40706",
@@ -341,7 +341,7 @@
          "zip":"80134",
          "city":"NAPOLI",
          "state":"NA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41280",
@@ -350,7 +350,7 @@
          "zip":"80029",
          "city":"SANT'ANTIMO",
          "state":"NA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40742",
@@ -359,7 +359,7 @@
          "zip":"80057",
          "city":"SANT'ANTONIO ABATE",
          "state":"NA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41223",
@@ -369,7 +369,7 @@
          "zip":"35020",
          "city":"PONTE SAN NICOLO'",
          "state":"PD",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41063",
@@ -378,7 +378,7 @@
          "zip":"35037",
          "city":"TEOLO",
          "state":"PD",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41216",
@@ -387,7 +387,7 @@
          "zip":"06123",
          "city":"PERUGIA",
          "state":"PG",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41219",
@@ -396,7 +396,7 @@
          "zip":"56040",
          "city":"CENAIA",
          "state":"PI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41250",
@@ -405,7 +405,7 @@
          "zip":"56020",
          "city":"MONTOPOLI IN VAL D' ARNO",
          "state":"PI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41169",
@@ -415,7 +415,7 @@
          "zip":"56128",
          "city":"TIRRENIA",
          "state":"PI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41295",
@@ -425,7 +425,7 @@
          "zip":"56128",
          "city":"TIRRENIA",
          "state":"PI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41241",
@@ -434,7 +434,7 @@
          "zip":"59013",
          "city":"MONTEMURLO",
          "state":"PO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40443",
@@ -443,7 +443,7 @@
          "zip":"51019",
          "city":"PONTE BUGGIANESE",
          "state":"PT",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41000",
@@ -452,7 +452,7 @@
          "zip":"00044",
          "city":"FRASCATI",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41315",
@@ -461,7 +461,7 @@
          "zip":"00070",
          "city":"POMEZIA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41252",
@@ -470,7 +470,7 @@
          "zip":"00186",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41273",
@@ -479,7 +479,7 @@
          "zip":"00173",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41277",
@@ -488,7 +488,7 @@
          "zip":"00144",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41278",
@@ -497,7 +497,7 @@
          "zip":"00146",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41284",
@@ -506,7 +506,7 @@
          "zip":"00146",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41291",
@@ -515,7 +515,7 @@
          "zip":"00154",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41302",
@@ -524,7 +524,7 @@
          "zip":"00127",
          "city":"ROMA",
          "state":"RM",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41306",
@@ -533,7 +533,7 @@
          "zip":"45020",
          "city":"VILLANOVA DEL GHEBBO",
          "state":"RO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40253",
@@ -542,7 +542,7 @@
          "zip":"84030",
          "city":"ATENA LUCANA",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41340",
@@ -551,7 +551,7 @@
          "zip":"84091",
          "city":"BATTIPAGLIA",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41320",
@@ -560,7 +560,7 @@
          "zip":"84092",
          "city":"BELLIZZI",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41286",
@@ -569,7 +569,7 @@
          "zip":"84025",
          "city":"EBOLI",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41187",
@@ -579,7 +579,7 @@
          "zip":"84084",
          "city":"FISCIANO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41242",
@@ -588,7 +588,7 @@
          "zip":"84095",
          "city":"GIFFONI VALLE PIANA",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41304",
@@ -598,7 +598,7 @@
          "zip":"84010",
          "city":"MAIORI",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41298",
@@ -607,7 +607,7 @@
          "zip":"84014",
          "city":"NOCERA INFERIORE",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40266",
@@ -616,7 +616,7 @@
          "zip":"84017",
          "city":"POSITANO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41272",
@@ -625,7 +625,7 @@
          "zip":"84017",
          "city":"POSITANO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40927",
@@ -634,7 +634,7 @@
          "zip":"84086",
          "city":"ROCCAPIEMONTE",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41178",
@@ -644,7 +644,7 @@
          "zip":"84121",
          "city":"SALERNO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41279",
@@ -653,7 +653,7 @@
          "zip":"84121",
          "city":"SALERNO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41330",
@@ -662,7 +662,7 @@
          "zip":"84122",
          "city":"SALERNO",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41322",
@@ -671,7 +671,7 @@
          "zip":"84018",
          "city":"SCAFATI",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40009",
@@ -680,7 +680,7 @@
          "zip":"84019",
          "city":"VIETRI SUL MARE",
          "state":"SA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41260",
@@ -689,7 +689,7 @@
          "zip":"53035",
          "city":"MONTERIGGIONI",
          "state":"SI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41312",
@@ -698,7 +698,7 @@
          "zip":"53035",
          "city":"MONTERIGGIONI",
          "state":"SI",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41261",
@@ -707,7 +707,7 @@
          "zip":"74123",
          "city":"TARANTO",
          "state":"TA",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41323",
@@ -716,7 +716,7 @@
          "zip":"10071",
          "city":"BORGARO",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41314",
@@ -725,7 +725,7 @@
          "zip":"10040",
          "city":"DRUENTO",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40518",
@@ -734,7 +734,7 @@
          "zip":"10040",
          "city":"LEINI",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41305",
@@ -743,7 +743,7 @@
          "zip":"10044",
          "city":"PIANEZZA",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41307",
@@ -752,7 +752,7 @@
          "zip":"10040",
          "city":"PIOBESI TORINESE",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41283",
@@ -761,7 +761,7 @@
          "zip":"10153",
          "city":"TORINO",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41301",
@@ -771,7 +771,7 @@
          "zip":"10124",
          "city":"TORINO",
          "state":"TO",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"40703",
@@ -780,7 +780,7 @@
          "zip":"28845",
          "city":"DOMODOSSOLA",
          "state":"VB",
-         "country code":"IT"
+         "countryCode":"IT"
       },
       {
          "clientID":"41321",
@@ -789,7 +789,7 @@
          "address":"1620W OAKLAND PARK BLVD",
          "city":"OAKLAND PARK, FL33311 (USA)",
          "state":"other",
-         "country code":"US"
+         "countryCode":"US"
       },
       {
          "clientID":"40612",
@@ -798,7 +798,7 @@
          "zip":"92861",
          "city":"VILLA PARK (CALIFORNIA ) (USA)",
          "state":"other",
-         "country code":"US"
+         "countryCode":"US"
       },
       {
          "clientID":"40108",
@@ -807,7 +807,7 @@
          "zip":"BKR",
          "city":"3000  LA VALLETTA",
          "state":"other",
-         "country code":"MALTA"
+         "countryCode":"MALTA"
       },
       {
          "clientID":"40609",
@@ -816,7 +816,7 @@
          "zip":"23642",
          "city":"HJARUP  (SWEDEN)",
          "state":"other",
-         "country code":"SVEZIA"
+         "countryCode":"SVEZIA"
       },
       {
          "clientID":"41309",
@@ -824,7 +824,7 @@
          "address":"ul. SAMUELA BOGUMILA LINDEGO 1C",
          "city":"30-148 Kraków (POLONIA)",
          "state":"other",
-         "country code":"POLONIA"
+         "countryCode":"POLONIA"
       },
       {
          "clientID":"413091",
@@ -832,7 +832,7 @@
          "address":"55 8th Ave Suite 1209\t\t\t\t",
          "city":"New York , NY 10018",
          "state":"other",
-         "country code":"USA"
+         "countryCode":"USA"
       },
       {
          "clientID":"413092",
@@ -840,7 +840,7 @@
          "address":"6342 BYSTRUM ROAD",
          "city":"95307 CERES (CALIFORNIA) - USA",
          "state":"other",
-         "country code":"USA"
+         "countryCode":"USA"
       }
    ]
 }
