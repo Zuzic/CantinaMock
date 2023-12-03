@@ -134,7 +134,7 @@
       {
          "clientID":"40928",
          "companyName":"When In Rome Wine Ltd",
-         "companyName2":"C\/O Studio 1, Halliday'S Mill",
+         "companyName2":"C/O Studio 1, Halliday'S Mill",
          "address":"London Road - Chalford -",
          "zip":"GL6",
          "city":"8Rn Stroud- Gloucestershire",
@@ -162,7 +162,7 @@
       {
          "clientID":"41259",
          "companyName":"Trattoria Nonna Isola Di Faccenda Enrico",
-         "address":"Via Aurelia N. 556\/558",
+         "address":"Via Aurelia N. 556/558",
          "zip":"57016",
          "city":"Castiglioncello",
          "state":"LI",
@@ -374,7 +374,7 @@
       {
          "clientID":"41063",
          "companyName":"Polo Spa",
-         "address":"Via San Benedetto, 44\/A - Z.I.",
+         "address":"Via San Benedetto, 44/A - Z.I.",
          "zip":"35037",
          "city":"Teolo",
          "state":"PD",
@@ -502,7 +502,7 @@
       {
          "clientID":"41284",
          "companyName":"Castroni A Viale Marconi Srl",
-         "address":"Viale Guglielmo Marconi, 102\/106",
+         "address":"Viale Guglielmo Marconi, 102/106",
          "zip":"146",
          "city":"Roma",
          "state":"RM",
@@ -511,7 +511,7 @@
       {
          "clientID":"41291",
          "companyName":"Un Tocco In Piu' Srls",
-         "address":"Piazza G. Da Verrazzano, 34\/35",
+         "address":"Piazza G. Da Verrazzano, 34/35",
          "zip":"154",
          "city":"Roma",
          "state":"RM",
@@ -520,7 +520,7 @@
       {
          "clientID":"41302",
          "companyName":"Faustini Francesca",
-         "address":"Via Sarsina 101\/101A",
+         "address":"Via Sarsina 101/101A",
          "zip":"127",
          "city":"Roma",
          "state":"RM",
@@ -603,7 +603,7 @@
       {
          "clientID":"41298",
          "companyName":"Vicidomini Srl",
-         "address":"Via G. Orlando, 43\/47",
+         "address":"Via G. Orlando, 43/47",
          "zip":"84014",
          "city":"Nocera Inferiore",
          "state":"SA",
@@ -640,7 +640,7 @@
          "clientID":"41178",
          "companyName":"Osteria Dei Mercanti Di Saviani Vincenzo",
          "companyName2":"Ristorante",
-         "address":"Via Dei Mercanti, 83\/85",
+         "address":"Via Dei Mercanti, 83/85",
          "zip":"84121",
          "city":"Salerno",
          "state":"SA",
@@ -757,7 +757,7 @@
       {
          "clientID":"41283",
          "companyName":"Redi Snc Di Infascelli E De Cesare",
-         "address":"Via Catania, 9\/A",
+         "address":"Via Catania, 9/A",
          "zip":"10153",
          "city":"Torino",
          "state":"TO",
@@ -767,7 +767,7 @@
          "clientID":"41301",
          "companyName":"La Fenice Srl",
          "companyName2":"Pizzeria",
-         "address":"Corso San Maurizio, 34\/B",
+         "address":"Corso San Maurizio, 34/B",
          "zip":"10124",
          "city":"Torino",
          "state":"TO",
@@ -795,7 +795,7 @@
       {
          "clientID":"40612",
          "companyName":"Francoli Usa Inc.",
-         "address":"17853 Santiago Blvd, Suite 107\/138",
+         "address":"17853 Santiago Blvd, Suite 107/138",
          "zip":"92861",
          "city":"Villa Park",
          "state":"CA",
